@@ -1,5 +1,5 @@
 /* Online Scala Compiler */
-object Company {
+object HelloWorld {
    def main(args: Array[String]) {
       val normal_h =40
       val per_normal = 250
